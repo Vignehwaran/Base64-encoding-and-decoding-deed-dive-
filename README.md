@@ -1,4 +1,4 @@
-### **📌 Explanation of the LinkedIn Bio**  
+### **📌 Explanation**   
 
 The bio focuses on how **Base64 encoding** helps LLMs (Large Language Models) work with **images and videos**, since LLMs cannot process raw binary files directly. Let’s break it down:  
 
